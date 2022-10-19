@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmet Yıldırım",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Mehmet Saklı",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Hasan Yılmaz",
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "Arzu Çetin ",
+      "status": false
+    },
+    {
+      "id": 5,
+      "name": "Doğan Yılmaz",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Ali Yanık",
+      "status": false
+    }
+  ]
+}
